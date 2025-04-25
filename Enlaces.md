@@ -3,8 +3,8 @@
 - **Código modificado (mi versión)**: [github.com/JackSpyro/ac4dem1a](https://github.com/JackSpyro/ac4dem1a)
 - **GitHub Actions**: [github.com/JackSpyro/ac4dem1a/actions](https://github.com/JackSpyro/ac4dem1a/actions)
 
-## ![Azure Logo](https://azurecomcdn.azureedge.net/cvt-8632d9bb8d979834a99a5c5a2709b3a1a4a197a9b48c0c7d2f7bcc6e3654b8a8/icons/icon-48x48.png) Aplicación Web Desplegada
-**URL de producción**: [agreeable-cliff-0cebca310.6.azurestaticapps.net](https://agreeable-cliff-0cebca310.6.azurestaticapps.net)
+## Aplicación Web Desplegada
+**URL de mi aplicativo en la nube de azure**: [agreeable-cliff-0cebca310.6.azurestaticapps.net](https://agreeable-cliff-0cebca310.6.azurestaticapps.net)
 
 ## Pruebas de Seguridad
 **Herramienta de análisis**: [securityheaders.com](https://securityheaders.com/)
