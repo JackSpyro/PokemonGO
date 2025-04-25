@@ -90,6 +90,4 @@ Puedes monitorear el proceso en:
 Una vez completado el flujo de trabajo, tendrás una URL como esta:
 
 https://agreeable-cliff-0cebca310.6.azurestaticapps.net
-Puedes:
-- Visitar la URL para ver tu sitio
 
