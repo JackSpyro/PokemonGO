@@ -1,4 +1,14 @@
 # PokemonGO - JackSpyro
+<div align="center" style="font-family: monospace; color: #FF0000; line-height: 1.2;">
+  <pre>
+   ╭━━━━━━━━━━━╮
+  ┃  ╭─────╮  ┃
+ ┃  │  ◯  │  ┃
+ ┃  ╰─────╯  ┃
+  ┃  █████  ┃
+   ╰━━━━━━━━━━━╯
+  </pre>
+</div>
 
 Este repositorio contiene el despliegue de una aplicación web basada en el universo de Pokémon, desarrollada con Angular y desplegada en la nube utilizando Microsoft Azure.
 
