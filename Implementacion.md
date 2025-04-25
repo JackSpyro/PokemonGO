@@ -47,8 +47,8 @@ api_location: ""
 ---
 ## Configuración de la Ubicación de la Aplicación (App Location)
 
-1. Accede a tu repositorio: [https://github.com/albertacho/albertacho](https://github.com/albertacho/albertacho)  
-2. Navega a la carpeta: `albertacho/github/workflows/`  
+1. Accede a tu repositorio: [https://github.com/JackSpyro/ac4dem1a/actions](https://github.com/JackSpyro/ac4dem1a/actions)  
+2. Navega a la carpeta: `JackSpyro/github/workflows/`  
 3. Localiza el archivo `azure-static-web-apps-delightful-field-02ef8bb10.yml` (el nombre puede variar ligeramente)  
 4. Haz clic en el icono de edición (lápiz)  
 5. Busca la línea #31:  
