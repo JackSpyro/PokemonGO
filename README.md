@@ -1,13 +1,6 @@
 # PokemonGO - JackSpyro
-<div align="center" style="font-family: monospace; color: #FF0000; line-height: 1.2;">
-  <pre>
-   ╭━━━━━━━━━━━╮
-  ┃  ╭─────╮  ┃
- ┃  │  ◯  │  ┃
- ┃  ╰─────╯  ┃
-  ┃  █████  ┃
-   ╰━━━━━━━━━━━╯
-  </pre>
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Pok%C3%A9_Ball_icon.svg" alt="Pokéball" width="100">
 </div>
 
 Este repositorio contiene el despliegue de una aplicación web basada en el universo de Pokémon, desarrollada con Angular y desplegada en la nube utilizando Microsoft Azure.
