@@ -64,4 +64,32 @@ Coloca el siguiente contenido:
     }
 }
 
+```
+---
+
+## 6. GitHub Actions se configura automáticamente
+
+Azure agregará automáticamente un archivo de flujo de trabajo (`.github/workflows/azure-static-web-apps-<algo>.yml`) a tu repositorio fork.
+
+Asegúrate de verificar y ajustar la ruta donde se encuentra tu aplicación en ese archivo. Este flujo define los pasos para construir y desplegar tu app cada vez que haces un cambio.
+
+---
+
+## 7. Primer despliegue automático
+
+Una vez creada la Static Web App, Azure ejecutará el flujo de trabajo y desplegará tu aplicación automáticamente.
+
+Puedes monitorear el proceso en:
+- El Portal de Azure → tu recurso de Static Web App
+- En GitHub → pestaña Actions del repositorio fork
+
+---
+
+## 8. Tu sitio ya está publicado
+
+Una vez completado el flujo de trabajo, tendrás una URL como esta:
+
+https://agreeable-cliff-0cebca310.6.azurestaticapps.net
+Puedes:
+- Visitar la URL para ver tu sitio
 
