@@ -1,8 +1,8 @@
 # Guía Completa para Crear una Cuenta Estudiantil de Azure
 
-<div style="text-align: center; margin: 20px 0;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="Microsoft Azure Logo" style="width: 200px; height: auto;">
-</div>
+<p style="text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Azure Logo" style="width: 200px; display: block; margin-left: auto; margin-right: auto;">
+</p>
 
 ## Requisitos Previos
 1. **Correo institucional** válido de una universidad/institución educativa reconocida.
