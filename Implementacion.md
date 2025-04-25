@@ -43,20 +43,19 @@ Para un sitio básico (HTML/CSS puro):
 app_location: "/"
 output_location: ""
 api_location: ""
-
-## 5. Configura seguridad con staticwebapp.config.json
-
+```
+---
+## Paso 5: Configurar seguridad con staticwebapp.config.json
 Para agregar cabeceras de seguridad HTTP, crea un archivo en tu repositorio llamado:
 
-`staticwebapp.config.json`
+staticwebapp.config.json
 
 Coloca el siguiente contenido:
-
-```json
+```yaml
 {
     "globalHeaders": {
         "Content-Security-Policy": "default-src 'self'; img-src 'self' https://raw.githubusercontent.com https://pokeapi.co https://www.packages.org/publications/open-access.html",
-        "X-Frame-Options": "DEMY",
+        "X-Frame-Options": "DENY",
         "Permissions-Policy": "geolocation=(), microphone=(), camera=()"
     },
     "navigationFallback": {
@@ -64,3 +63,5 @@ Coloca el siguiente contenido:
         "exclude": ["/images/", "/css/", "/js/", "/favicon.ico"]
     }
 }
+
+
